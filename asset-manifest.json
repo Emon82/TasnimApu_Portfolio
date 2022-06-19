@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TasnimApu_Portfolio/static/css/main.0227417a.css",
+    "main.js": "/TasnimApu_Portfolio/static/js/main.f3ed99dd.js",
+    "static/js/787.586b53ef.chunk.js": "/TasnimApu_Portfolio/static/js/787.586b53ef.chunk.js",
+    "index.html": "/TasnimApu_Portfolio/index.html",
+    "main.0227417a.css.map": "/TasnimApu_Portfolio/static/css/main.0227417a.css.map",
+    "main.f3ed99dd.js.map": "/TasnimApu_Portfolio/static/js/main.f3ed99dd.js.map",
+    "787.586b53ef.chunk.js.map": "/TasnimApu_Portfolio/static/js/787.586b53ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0227417a.css",
+    "static/js/main.f3ed99dd.js"
+  ]
+}
